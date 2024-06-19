@@ -1,0 +1,4 @@
+create table reg(first varchar(20),
+last varchar(20) , email varchar(30),
+uid varchar(20) , pass varchar(30),
+cpass varchar(20) , mobile varchar(30))
